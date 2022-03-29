@@ -1,4 +1,7 @@
 '''
 输出helloworld
 '''
-print("hello world!")
+print('Hello,world!')
+
+def foo():
+  pass
